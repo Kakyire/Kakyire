@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel -(Kakyire) 👋
 
-## A self-taught Mobile App Developer, Graphic Designer, UI/UX Designer.
+## A self-taught Mobile App Developer, Graphic Designer.
 <!--
 
 - 🔭 I’m currently working on ...
@@ -27,7 +27,6 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img height="32" width="32" src="https://i.pinimg.com/236x/51/b0/ba/51b0ba46b3b854fcbfc08fc0be57ce5d.jpg" />
-<img height="32" width="32" src="https://i.pinimg.com/236x/3d/d7/84/3dd784c8e4d24b8b646df9ea92ff0ed3.jpg" />
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kakyire)](https://github.com/kakyire/github-readme-stats)
