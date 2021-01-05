@@ -33,6 +33,7 @@
 
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kakyire&repo=github-readme-stats)](https://github.com/kakyire/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakyire&langs_count=20)](https://github.com/kakyire/github-readme-stats)
 
