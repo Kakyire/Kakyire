@@ -8,9 +8,9 @@
 - 🤔 I’m looking for help with ...- 💬 Ask me about ...
 - ⚡ Fun fact: I haven't travel outside my country.
 - 😄 Pronouns: ...
+- 🌱 I’m currently learning **Flutter**
 
 -->
-- 🌱 I’m currently learning **Flutter**
 
 #### - 📫 How to reach me: 
 
