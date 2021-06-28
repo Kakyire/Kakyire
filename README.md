@@ -38,4 +38,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakyire&langs_count=20)](https://github.com/kakyire/github-readme-stats)
 
 
+[![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
