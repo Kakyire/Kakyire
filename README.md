@@ -29,7 +29,7 @@
 <img height="32" width="32" src="https://i.pinimg.com/236x/51/b0/ba/51b0ba46b3b854fcbfc08fc0be57ce5d.jpg" />
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kakyire&show_icons=true&count_private=true)](https://github.com/kakyire/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kakyire&show_icons=true&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/kakyire/github-readme-stats)
 
 
 
