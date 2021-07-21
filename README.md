@@ -42,6 +42,6 @@
 
 [![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Coding Activites](https://wakatime.com/share/@kakyire/05da2bbe-5ed0-423d-8e82-21b62e9736d9.svg)
 
 
