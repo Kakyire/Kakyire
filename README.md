@@ -32,16 +32,20 @@
 <img height="32" width="32" src="https://i.pinimg.com/236x/51/b0/ba/51b0ba46b3b854fcbfc08fc0be57ce5d.jpg" />
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kakyire&show_icons=true&count_private=true&hide=issues&contribs=true&stars=true)](https://github.com/kakyire/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kakyire&show_icons=true&count_private=true&hide=issues&contribs=true&stars=true&include_all_commits=false)](https://github.com/kakyire/github-readme-stats)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakyire&langs_count=20)](https://github.com/kakyire/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakyire&langs_count=20&layout=compact)](https://github.com/kakyire/github-readme-stats)
 
 
-[![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire)](https://github.com/anuraghazra/github-readme-stats)
+[![kakyire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakyire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Coding Activites](https://wakatime.com/share/@kakyire/05da2bbe-5ed0-423d-8e82-21b62e9736d9.svg)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=app-review&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=webview-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
