@@ -44,8 +44,8 @@
 
 ![Coding Activites](https://wakatime.com/share/@kakyire/05da2bbe-5ed0-423d-8e82-21b62e9736d9.svg)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=app-review&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=app-review&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=webview-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kakyire&repo=webview-theme&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
 
