@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel -(Kakyire) 👋
 
-## A self-taught Mobile App Developer, Graphic Designer.
+## A self-taught Mobile App Developer.
 <!--
 
 - 🔭 I’m currently working on ...
