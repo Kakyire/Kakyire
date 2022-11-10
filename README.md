@@ -12,9 +12,8 @@
 - 😄 Pronouns: ...
 - 🌱 I’m currently learning **Flutter**
 
--->
 - 🌱 I’m currently learning **iOS Development**
-
+-->
 
 ## Maintaining
 - [webview-theme](https://github.com/Kakyire/webview-theme)
