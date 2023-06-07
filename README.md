@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/b10ab3b0-555e-4d44-9419-8abf186e620d.svg)](https://wakatime.com/@b10ab3b0-555e-4d44-9419-8abf186e620d)
 
-## A self-taught Mobile App Developer.
+## Mobile App Developer (Native Android and iOS).
 <!--
 
 - 🔭 I’m currently working on ...
